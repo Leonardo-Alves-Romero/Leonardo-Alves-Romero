@@ -2,7 +2,7 @@
 - 👀 I’m interested in to learn
 - 🌱 I’m currently learning Systems analysis and development
 - 💞️ I’m looking to collaborate on create codes that help peoples
-- 📫 How to reach me in my instagram @leo_devofc or my whatsapp +55(11) 9.7790-5252.
+- 📫 How to reach me in my instagram @dev_leoo or my whatsapp +55(11) 9.7790-5252.
 
 
 
